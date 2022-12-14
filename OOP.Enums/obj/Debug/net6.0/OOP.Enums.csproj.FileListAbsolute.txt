@@ -1,0 +1,15 @@
+C:\C#\Console\OOP.Enums\OOP.Enums\bin\Debug\net6.0\OOP.Enums.exe
+C:\C#\Console\OOP.Enums\OOP.Enums\bin\Debug\net6.0\OOP.Enums.deps.json
+C:\C#\Console\OOP.Enums\OOP.Enums\bin\Debug\net6.0\OOP.Enums.runtimeconfig.json
+C:\C#\Console\OOP.Enums\OOP.Enums\bin\Debug\net6.0\OOP.Enums.dll
+C:\C#\Console\OOP.Enums\OOP.Enums\bin\Debug\net6.0\OOP.Enums.pdb
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.csproj.AssemblyReference.cache
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.AssemblyInfoInputs.cache
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.AssemblyInfo.cs
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.csproj.CoreCompileInputs.cache
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.dll
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\refint\OOP.Enums.dll
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.pdb
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\OOP.Enums.genruntimeconfig.cache
+C:\C#\Console\OOP.Enums\OOP.Enums\obj\Debug\net6.0\ref\OOP.Enums.dll
